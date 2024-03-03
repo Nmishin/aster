@@ -1,5 +1,5 @@
 # Aster
-A robust file uploader for [Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/). Compliments [Render](https://github.com/kotx/render) nicely.
+A robust file uploader for [Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/). Complements [Render](https://github.com/kotx/render) nicely.
 
 If you want something simpler though, try https://github.com/Erisa/simple-r2-form.
 
