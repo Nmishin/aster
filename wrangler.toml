@@ -3,7 +3,7 @@ compatibility_date = "2023-01-01"
 main = "src/index.ts"
 
 workers_dev = false # INSECURE, DO NOT ENABLE
-route = { pattern = "cdn.www1.talkintummies.com", custom_domain = true } # CHANGEME
+route = { pattern = "aster.sanduku-default.workers.dev", custom_domain = false } # CHANGEME
 
 [site]
 bucket = "./assets"
