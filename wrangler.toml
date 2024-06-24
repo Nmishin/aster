@@ -9,7 +9,7 @@ route = { pattern = "", custom_domain = false} # CHANGEME
 bucket = "./assets"
 
 [vars]
-PUBLIC_BUCKET_URL = "https://cdn.www1.talkintummies.com"
+PUBLIC_BUCKET_URL = "pub-72fc423b323b4dde81a42e8d5ecd24a6.r2.dev"
 R2_BUCKET_NAME = "aster-test" # CHANGEME
 CF_ACCOUNT_ID = "de47a12f1c8bb641a43895eca94e6290" # CHANGEME
 
